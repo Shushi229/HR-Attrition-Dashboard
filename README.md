@@ -59,7 +59,7 @@ The visualization uses a color scale (1-4) to represent job satisfaction levels 
 
 ### Gender Distribution
 ![Gender Distribution](https://github.com/user-attachments/assets/1bf302a2-2ced-495d-b623-caa1faa136d9)
-)
+
 
 The workforce comprises 591 female employees and 889 male employees, allowing for gender-based analysis of attrition patterns.
 
